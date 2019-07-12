@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96e044762a85ded4988c3fd14c2d3c53, type: 3}
+  m_Name: A12
+  m_EditorClassIdentifier: 
+  text: "Upon checking the bag, it seems to be probably some campers or just passerby
+    who happened to take a rest.\r\nThere was a knife inside, probably best not to
+    touch it.\r\nSince there's a shortage of diesel in his car, it's best to take
+    no chances.\r\nSo take it since you might just need it in case you don't find
+    shelter?\r\n1: Yeah [Knife: True]\r\n2: Hell no, who knows where it is from? [Knife:
+    False]"
+  nextStates:
+  - {fileID: 11400000, guid: 182fcc3df74398443b53ff331dfad778, type: 2}
+  - {fileID: 11400000, guid: 182fcc3df74398443b53ff331dfad778, type: 2}

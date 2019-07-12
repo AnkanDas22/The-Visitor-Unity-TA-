@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96e044762a85ded4988c3fd14c2d3c53, type: 3}
+  m_Name: Intro
+  m_EditorClassIdentifier: 
+  text: "Lane is driving through the woods, on a rough, now barely concrete road.\r\nA
+    doll, almost torn and dilapidated, keeps moving side to side like a pendulum on
+    a string.\r\nThe radio playing his age-old tunes, that still reminds him of his
+    holiday visits to this place.\r\nThere's almost a strange acquaintance that he
+    feels with this place he had visited long ago.\r\nThe jerking of the car makes
+    him nauseous. Lane feels like a bit sick from all the driving.\r\nDo you stop
+    and smoke a cigarette in the middle of nowhere?\r\n\r\n1. Why not?\r\n2. Definitely
+    not!"
+  nextStates:
+  - {fileID: 11400000, guid: fd96dd40598f99a4a86f7b55d79f9444, type: 2}
+  - {fileID: 11400000, guid: dbe441592a050d848ad60573d30c0952, type: 2}

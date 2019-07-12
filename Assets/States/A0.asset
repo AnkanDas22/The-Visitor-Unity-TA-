@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96e044762a85ded4988c3fd14c2d3c53, type: 3}
+  m_Name: A0
+  m_EditorClassIdentifier: 
+  text: "Lane pushes the breaks, and the car slowly comes to a halt.\r\nAs soon as
+    it does, a deer hurriedly runs across from the right of the thicket to the left.\r\nLane
+    feels glad that he had stopped, otherwise who knows what might have happened.\r\nHe
+    grasps the roll with his left hand, and takes out the metallic electronic lighter
+    to his face and lights up the cigarette.\r\nIt's almost magically that he had
+    forgotten all his worries, breathing through the smoke inside his car, when he
+    realized he hadn't opened the car windows.\r\nHe quickly pulls down the rattling
+    windows, letting out the smoke and throws the cigarette out on the road.\r\nAs
+    he's about to close the windows, a herd of deer again runs across the road in
+    front of his car.\r\nWasting not another second, he starts up the car and gets
+    going."
+  nextStates:
+  - {fileID: 11400000, guid: 6bc9aa0f617671a40ba56175c9d154f1, type: 2}

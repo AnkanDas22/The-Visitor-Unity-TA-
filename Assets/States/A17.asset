@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96e044762a85ded4988c3fd14c2d3c53, type: 3}
+  m_Name: A17
+  m_EditorClassIdentifier: 
+  text: "Lane heads down to the dining bunker.\r\nIt is pretty well maintained, with
+    diner like decorations, just underground.\r\nThe diner is brimming with people,
+    it's like an entire civilization living down here.\r\n[HUNGRY: True] Lane was
+    pretty hungry, so he sits down for a healthy dinner. (Set HUNGRY = False)\r\n[HUNGRY:
+    False] Lane was tired from the walking, plus he could go for a good shake anytime.\r\nHe
+    heads out to the open field."
+  nextStates:
+  - {fileID: 11400000, guid: 4c04e9aa3215daf429e5b2a9fc3fe3a9, type: 2}

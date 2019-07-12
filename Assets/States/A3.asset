@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96e044762a85ded4988c3fd14c2d3c53, type: 3}
+  m_Name: A3
+  m_EditorClassIdentifier: 
+  text: "Lane keeps driving, without offering himself the relief of tension that he
+    very much needed.\r\nA herd of deer rushes across and slams against the car and
+    breaks the windshield [WINDSHIELD: Broken/False].\r\nWithout taking even another
+    second, Lane tries to drive the car forward but it is stuck.\r\nHe goes out in
+    front, checks the barely breathing body of the deer.\r\nShould he:\r\n1[DEER:
+    True]: Put it in the trunk of his car.\r\n2[DEER: False]: Move it aside and get
+    back on the car."
+  nextStates:
+  - {fileID: 11400000, guid: 6bc9aa0f617671a40ba56175c9d154f1, type: 2}
+  - {fileID: 11400000, guid: 6bc9aa0f617671a40ba56175c9d154f1, type: 2}

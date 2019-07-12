@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96e044762a85ded4988c3fd14c2d3c53, type: 3}
+  m_Name: A6
+  m_EditorClassIdentifier: 
+  text: "He takes the right road up.\r\nDriving by, he notices a now non-operational,
+    old petrol station but it reminds him of something.\r\nThis must be the way to
+    his grandma's house.\r\nHe ponders over the gas station, he remembers it as the
+    only place nearby with the chocolate filled candies.\r\nHe'd often come around
+    the gas station to collect the candy they used to give away when he used to visit
+    his grandma's place.\r\nHe soon reaches his grandma's house, but the lights seem
+    to be off.\r\nHe gets down and reaches the porch, when a few trucks heads off
+    in the direction he came from.\r\nLane carefully knocks on the door, afraid his
+    grandma might be asleep and might be shaken.\r\nMinutes go by, yet no one responds.
+    He decides to:\r\n1(A10): Get back on the car and drive back and take the left
+    road up to look for a place to stay\r\n2(A11): Check the neighbor's house, the
+    only other settlement nearby"
+  nextStates:
+  - {fileID: 11400000, guid: 182fcc3df74398443b53ff331dfad778, type: 2}
+  - {fileID: 11400000, guid: 64aa5c93ac750124eb3bd321e6785658, type: 2}

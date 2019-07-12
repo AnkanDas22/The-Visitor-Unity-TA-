@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96e044762a85ded4988c3fd14c2d3c53, type: 3}
+  m_Name: A7
+  m_EditorClassIdentifier: 
+  text: "A quick google search didn't help. Apparently, this area is supposed to be
+    a garbage dump, according to google.\r\nBut, in what world are there bunkers in
+    the middle of a massive, open field?\r\nBefore Lane is about to turn around and
+    drive away, a light flashes on his car, almost blinding him.\r\n1(A8): His heart
+    tells him to push on the accelerator, and run away.\r\n2(A9): But his mind, more
+    conscious of the situation, tells him to not."
+  nextStates:
+  - {fileID: 11400000, guid: 38114e3c2910420488c607a7dda2532c, type: 2}
+  - {fileID: 11400000, guid: 727bd145317bc224c8f24de860318f1a, type: 2}

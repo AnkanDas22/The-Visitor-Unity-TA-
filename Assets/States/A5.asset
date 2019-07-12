@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96e044762a85ded4988c3fd14c2d3c53, type: 3}
+  m_Name: A5
+  m_EditorClassIdentifier: 
+  text: "As Lane moves up the road, it seems that the ground is rougher than it was
+    before.\r\nThe fact that there seems to be no human presence around the place
+    is scary enough.\r\nWhat travels these roads, then? How is it in this state?\r\nHe
+    keeps driving, without further thought, as he reaches the end of the road.\r\nThere's
+    a sign reading \"Restricted\" in big, red bold letters right before opening into
+    a big, open field.\r\nIn the distance, there seems to be metallic bunkers all
+    around.\r\n1(A7): Look up what this place is all about.\r\n2(A6): Better get going,
+    no time to mess around"
+  nextStates:
+  - {fileID: 11400000, guid: 5773c4ff1c1a62e48a937f89fb87bf95, type: 2}
+  - {fileID: 11400000, guid: e2c8059cc8a6ae3498ee3bbae2f8e899, type: 2}

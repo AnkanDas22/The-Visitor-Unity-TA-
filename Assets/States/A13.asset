@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96e044762a85ded4988c3fd14c2d3c53, type: 3}
+  m_Name: A13
+  m_EditorClassIdentifier: 
+  text: "No, let it be.\r\nIt's just a deserted place, but that doesn't mean there
+    are serial killers or some animals out there trying to hunt him down.\r\nHe just
+    gets back on his car, and heads towards the road back."
+  nextStates:
+  - {fileID: 11400000, guid: 182fcc3df74398443b53ff331dfad778, type: 2}

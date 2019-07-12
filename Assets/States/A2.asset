@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96e044762a85ded4988c3fd14c2d3c53, type: 3}
+  m_Name: A2
+  m_EditorClassIdentifier: 
+  text: "Lane gets out of the car, and very weirdly, there is nothing there.\r\nNot
+    even a trace of fur.\r\nNot a single drop of blood.\r\nDid you just dream it all?\r\nMaybe,
+    it's all his nausea acting up. Lane decides to take a smoke.\r\nHe grasps the
+    roll with his left hand, and takes out the metallic electronic lighter to his
+    face and lights up the cigarette.\r\nHe gets back on his car, and evidently, there's
+    no damage on the windshield."
+  nextStates:
+  - {fileID: 11400000, guid: 6bc9aa0f617671a40ba56175c9d154f1, type: 2}

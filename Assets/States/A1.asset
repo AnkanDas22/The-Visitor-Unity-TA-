@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96e044762a85ded4988c3fd14c2d3c53, type: 3}
+  m_Name: A1
+  m_EditorClassIdentifier: 
+  text: "Lane decides to keep moving, as it can get very dark if he doesn't manage
+    to reach his destination quick.\r\nThe way forward is fairly dark even then, an
+    unsuspecting deer runs across the road and hits the bonette.\r\nThe force was
+    enough to make it roll over the windshield and throw it right behind the car.\r\nWanna
+    go back and check on the deer?\r\n\r\n1: It's our responsibility to.\r\n2: Let
+    it be, keep driving."
+  nextStates:
+  - {fileID: 11400000, guid: d9847ecd63dc7584db7581a05cb07416, type: 2}
+  - {fileID: 11400000, guid: 37db3b7a3fbd982459a2da5d4eaea7ba, type: 2}

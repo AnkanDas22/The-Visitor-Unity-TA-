@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96e044762a85ded4988c3fd14c2d3c53, type: 3}
+  m_Name: A8
+  m_EditorClassIdentifier: 
+  text: "He tries to turn around, but a manly voice calls out to him telling him to
+    wait.\r\nHe realizes it was just one of the truck drivers, when he opens up his
+    eyes.\r\nThe light was from one of the trucks, apparently powerful enough to blind
+    a person.\r\nLane stalls the car, and parks around a corner."
+  nextStates:
+  - {fileID: 11400000, guid: c2111928242486140a04c5276b61114c, type: 2}
