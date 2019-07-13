@@ -18,8 +18,8 @@ MonoBehaviour:
     keeps driving, without further thought, as he reaches the end of the road.\r\nThere's
     a sign reading \"Restricted\" in big, red bold letters right before opening into
     a big, open field.\r\nIn the distance, there seems to be metallic bunkers all
-    around.\r\n1(A7): Look up what this place is all about.\r\n2(A6): Better get going,
+    around.\r\n1(A7): Look up what this place is all about.\r\n2(A4): Better get going,
     no time to mess around"
   nextStates:
   - {fileID: 11400000, guid: 5773c4ff1c1a62e48a937f89fb87bf95, type: 2}
-  - {fileID: 11400000, guid: e2c8059cc8a6ae3498ee3bbae2f8e899, type: 2}
+  - {fileID: 11400000, guid: 6bc9aa0f617671a40ba56175c9d154f1, type: 2}
